@@ -1,1 +1,23 @@
-test
+{
+  "kind": "blogger#blog",
+  "id": "2394247834531545836",
+  "name": "1.1.1.1",
+  "description": "",
+  "published": "2020-05-22T05:44:55-07:00",
+  "updated": "2020-05-22T05:44:56-07:00",
+  "url": "http://uvpnip.blogspot.com/",
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2394247834531545836",
+  "posts": {
+    "totalItems": 0,
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2394247834531545836/posts"
+  },
+  "pages": {
+    "totalItems": 0,
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2394247834531545836/pages"
+  },
+  "locale": {
+    "language": "en",
+    "country": "",
+    "variant": ""
+  }
+}
